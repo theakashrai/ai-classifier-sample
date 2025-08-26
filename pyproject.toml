@@ -1,11 +1,27 @@
 [project]
 name = "ai-classifier-sample"
 version = "1.0.0"
-description = ""
+description = "A clean, provider-agnostic message classification service using AI models"
 authors = [
-    {name = "arakashrai@gmail.com"}
+    {name = "Akash Rai", email = "arakashrai@gmail.com"}
 ]
+license = {text = "MIT"}
 readme = "README.md"
+homepage = "https://github.com/theakashrai/ai-classifier-sample"
+repository = "https://github.com/theakashrai/ai-classifier-sample"
+documentation = "https://github.com/theakashrai/ai-classifier-sample#readme"
+keywords = ["ai", "classification", "machine-learning", "aws", "bedrock", "langchain", "nlp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Linguistic",
+]
 requires-python = ">=3.13,<4.0.0"
 dependencies = [
     "boto3 (>=1.40.17,<2.0.0)",
