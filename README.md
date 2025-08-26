@@ -213,9 +213,12 @@ poetry run pytest -m integration
 
 Currently supported with Claude models:
 
-- **Claude 3.5 Sonnet**: Latest and most capable model
-- **Claude 3 Haiku**: Fast and cost-effective option
-- **Claude 3 Opus**: Maximum performance and accuracy
+- **Claude 4**: Next-generation model with advanced capabilities
+- **Claude 3.5 Sonnet**: Latest and most capable model with enhanced reasoning
+- **Claude 3.5 Haiku**: Fast, cost-effective option with improved performance
+- **Claude 3 Sonnet**: Balanced performance and speed
+- **Claude 3 Haiku**: Ultra-fast and lightweight for simple tasks
+- **Claude 3 Opus**: Maximum performance for complex reasoning tasks
 
 ### Adding New Providers
 
