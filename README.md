@@ -24,7 +24,7 @@ A clean, provider-agnostic message classification service using AI models. Built
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-classifier-sample.git
+git clone https://github.com/theakashrai/ai-classifier-sample.git
 cd ai-classifier-sample
 
 # Install with Poetry
@@ -166,7 +166,7 @@ poetry run python tests/test_settings.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-classifier-sample.git
+git clone https://github.com/theakashrai/ai-classifier-sample.git
 cd ai-classifier-sample
 
 # Install development dependencies
